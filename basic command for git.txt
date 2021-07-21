@@ -1,0 +1,23 @@
+from branch to master
+git checkout master
+
+from master to branch-name-xyz
+git checkout branch-name-xyz
+
+1 -make sure you are in master
+2- git pull
+3 -created branch -- git checkout -b branch-name-thisisformat
+4- edit the code
+5- git status --- if you want to see status
+6- git add . --- for moving code from working respository to staging area
+7- git commit -m "write messgae"
+8- git push origin branch-name-thisisformat
+
+now got to github
+
+search for your branch
+open pull request
+select review 
+create pull request
+copy link 
+good to go
