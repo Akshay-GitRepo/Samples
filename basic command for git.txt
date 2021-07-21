@@ -12,6 +12,7 @@ git checkout branch-name-xyz
 6- git add . --- for moving code from working respository to staging area
 7- git commit -m "write messgae"
 8- git push origin branch-name-thisisformat
+9- close git
 
 now got to github respository
 and then follow the line 19
