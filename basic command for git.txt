@@ -13,7 +13,7 @@ git checkout branch-name-xyz
 7- git commit -m "write messgae"
 8- git push origin branch-name-thisisformat
 
-now got to github
+now got to github respository
 and then follow the line 19
 
 search for your branch
